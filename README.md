@@ -12,6 +12,7 @@ This implements a Convolutional Neural Network (CNN) to classify images of cats 
 - TensorFlow / Keras
 - NumPy
 - Zipfile (for extracting dataset)
+- Matplotlib
 
 ## ⚙️ Model Architecture
 - **Input Layer:** (256, 256, 3) images  
